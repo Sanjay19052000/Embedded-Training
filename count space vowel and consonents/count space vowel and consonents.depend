@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665138233 source:c:\users\admin\onedrive\desktop\c projects\count space vowel and consonents\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664348828 source:c:\users\admin\onedrive\desktop\c projects\area of circle using standard lib\main.c
+	<stdio.h>
+	<math.h>
+
