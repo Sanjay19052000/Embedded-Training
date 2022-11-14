@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1668076623 source:c:\users\admin\onedrive\desktop\c projects\sorting strings considering the 1st lettter of string\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
