@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668079868 source:c:\users\admin\onedrive\desktop\c projects\leap year and print next leap year\main.c
+	<stdio.h>
+	<stdlib.h>
+

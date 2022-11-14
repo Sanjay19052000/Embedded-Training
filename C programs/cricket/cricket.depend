@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666256888 source:c:\users\admin\onedrive\desktop\c projects\cricket\main.c
+	<stdio.h>
+	<stdlib.h>
+

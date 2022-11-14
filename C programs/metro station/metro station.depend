@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666250625 source:c:\users\admin\onedrive\desktop\c projects\metro station\main.c
+	<stdio.h>
+	<stdlib.h>
+

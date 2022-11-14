@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668145176 source:c:\users\admin\onedrive\desktop\c projects\amstrong\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

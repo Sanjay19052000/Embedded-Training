@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667818139 source:c:\users\admin\onedrive\desktop\c projects\generate 50 rand num from 0-100 and store its frequency in decending order\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

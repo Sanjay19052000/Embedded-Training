@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667908753 source:c:\users\admin\onedrive\desktop\c projects\square in circle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
